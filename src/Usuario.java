@@ -1,4 +1,4 @@
-import aparelho.iphone.Iphone;
+import iphone.Iphone;
 
 public class Usuario {
 
