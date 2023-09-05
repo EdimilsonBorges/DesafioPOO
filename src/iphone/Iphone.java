@@ -1,3 +1,8 @@
+package aparelho.iphone;
+import aparelho.telefone.AparelhoTelefonico;
+import navegador.internet.NavegadorNaInternet;
+import reprodutor.musical.ReprodutorMusical;
+
 public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorNaInternet {
 
     @Override
