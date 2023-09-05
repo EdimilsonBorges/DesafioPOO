@@ -1,7 +1,7 @@
-package aparelho.iphone;
-import aparelho.telefone.AparelhoTelefonico;
-import navegador.internet.NavegadorNaInternet;
-import reprodutor.musical.ReprodutorMusical;
+package iphone;
+import navegador.NavegadorNaInternet;
+import reprodutor.ReprodutorMusical;
+import telefone.AparelhoTelefonico;
 
 public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorNaInternet {
 

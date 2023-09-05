@@ -1,4 +1,4 @@
-package navegador.internet;
+package navegador;
 public interface NavegadorNaInternet {
 
     public void exibirPagina(); 
