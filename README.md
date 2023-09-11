@@ -1,4 +1,4 @@
-# DIAGRAMA
+# DIAGRAMA UML
 <img src="https://github.com/EdimilsonBorges/DesafioPOO/blob/main/UML.jpg">
 
 ## Getting Started
